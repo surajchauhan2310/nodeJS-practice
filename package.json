@@ -1,0 +1,18 @@
+{
+  "name": "ndoe-practice",
+  "version": "1.0.0",
+  "description": "First Node JS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "Suraj Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
